@@ -1,0 +1,11 @@
+C:\Users\venka\source\repos\Trip\Trip\bin\Debug\netcoreapp3.0\TripAverage.exe
+C:\Users\venka\source\repos\Trip\Trip\bin\Debug\netcoreapp3.0\TripAverage.deps.json
+C:\Users\venka\source\repos\Trip\Trip\bin\Debug\netcoreapp3.0\TripAverage.runtimeconfig.json
+C:\Users\venka\source\repos\Trip\Trip\bin\Debug\netcoreapp3.0\TripAverage.runtimeconfig.dev.json
+C:\Users\venka\source\repos\Trip\Trip\bin\Debug\netcoreapp3.0\TripAverage.dll
+C:\Users\venka\source\repos\Trip\Trip\bin\Debug\netcoreapp3.0\TripAverage.pdb
+C:\Users\venka\source\repos\Trip\Trip\obj\Debug\netcoreapp3.0\TripAverage.csprojAssemblyReference.cache
+C:\Users\venka\source\repos\Trip\Trip\obj\Debug\netcoreapp3.0\TripAverage.AssemblyInfoInputs.cache
+C:\Users\venka\source\repos\Trip\Trip\obj\Debug\netcoreapp3.0\TripAverage.AssemblyInfo.cs
+C:\Users\venka\source\repos\Trip\Trip\obj\Debug\netcoreapp3.0\TripAverage.dll
+C:\Users\venka\source\repos\Trip\Trip\obj\Debug\netcoreapp3.0\TripAverage.pdb
